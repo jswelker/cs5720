@@ -10,3 +10,10 @@
 - Problem 1: combine a user's first and last name
 - Problem 2: count words in a file and print to another file
 - Problem 3: convert a list of inches to centimeters
+
+## ICP 3
+- Problem 1: breast cancer detection neural network
+- Problem 2: handwriting digit detection neural network
+
+## ICP 4
+- Problem 1: convolutional neural network for handwriting digit detection
