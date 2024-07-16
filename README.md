@@ -17,3 +17,7 @@
 
 ## ICP 4
 - Problem 1: convolutional neural network for handwriting digit detection
+
+## ICP 5
+- Problem 1: Auto-encoder
+- Problem 2: Denoising auto-encoder
